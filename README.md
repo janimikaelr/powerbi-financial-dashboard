@@ -20,4 +20,4 @@ The dashboard analyzes financial performance between 2019 and 2020, focusing on:
 
 ## Dashboard Preview
 
-![Dashboard Overview](dashboard-overview.png)
+![Dashboard Overview](dashboard-overview)
